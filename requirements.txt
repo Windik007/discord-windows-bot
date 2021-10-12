@@ -1,2 +1,0 @@
-discord_components
-discord==1.7.1
